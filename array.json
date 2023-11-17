@@ -1,0 +1,11 @@
+{
+    "nama":"Natasha Romanoff",
+    "usia":25,
+    "makanan favorit": "Sate",
+    "riwayat pendidikan":{
+        "SD": "SD IT Al Azhar 9",
+        "SMP": "SMPI Al Azhar 9",
+        "SMA": "SMAI Al Azhar 4"
+    }
+   
+    }
